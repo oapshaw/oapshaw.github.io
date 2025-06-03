@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/teaching.html",
-    "items": [
-      "/teaching/classes/index.html"
-    ]
-  },
-  {
     "listing": "/research.html",
     "items": [
       "/research/articles/tempe-compassion-fatigue-2024/index.html",
@@ -20,6 +14,12 @@
       "/research/articles/narcan-cops-2021/index.html",
       "/research/working-papers/truleo-accept-feasibility-is/index.html",
       "/research/working-papers/truleo-perceptions-multiwave/index.html"
+    ]
+  },
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/classes/index.html"
     ]
   }
 ]
