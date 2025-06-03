@@ -9,7 +9,7 @@ project:
 website:
   title: "Seth Watts"
   description: "Personal website of Seth Watts"
-  site-url: https://sethbwatts.com
+  site-url: https://oapshaw.github.io
   navbar:
     left:
       - href: index.qmd
